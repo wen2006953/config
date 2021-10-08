@@ -1305,7 +1305,14 @@
 		"cdnjs.hnfenxun.com",
 		"cms.qdwght.com"
 	],
-    "relax": {
-        "lmv": "https://w.wxbxkx.com/"
-    }
+	"relax": {
+		"adlv": [],
+		"tvdir": "/sdcard/轻松时刻/",
+		"use_parses": false,
+		"ady": "https://x.wxbxkx.com/",
+		"zjr": "https://www.zhuijuren.cc/vodshow/dianying-----------/",
+		"zbk": "http://www.zhenbuka3.com/",
+		"pk": "https://www.pianku.li/",
+		"ngdy": "http://www.nangua5.com/list/dy_____.html"
+	}
 }
