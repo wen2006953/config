@@ -1,3 +1,4 @@
+央视
 CCTV1,http://223.110.243.138:80/PLTV/3/224/3221226316/index.m3u8?servicetype=1&amp;icpid=88888888&amp;from=1&amp;hms_devid=3444
 CCTV1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
 CCTV1,http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
@@ -42,6 +43,7 @@ CCTV14,http://39.135.138.59:18890/PLTV/88888910/224/3221225640/index.m3u8
 CCTV15,http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
 CCTV17,http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
 CCTV女性时尚,http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
+卫视
 北京卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225674/index.m3u8
 北京卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225673/index.m3u8
 北京纪实,http://39.135.138.59:18890/PLTV/88888910/224/3221225675/index.m3u8
@@ -120,6 +122,7 @@ CCTV女性时尚,http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/322122
 新疆卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225725/index.m3u8
 西藏卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225723/index.m3u8
 康巴卫视,http://scgctvshow.sctv.com/sdlive/kangba/1.m3u8
+影院
 北京4K影院,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
 淘电影,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 淘娱乐,http://39.135.238.69:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
@@ -137,6 +140,7 @@ FashionTV,https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_7
 4K花园娱乐,http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
 4KCESHI,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
 微视电影HD,http://107.167.5.66:80/mylive/102/2061/index.m3u8
+港澳
 天映经典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映电影HD,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
@@ -173,6 +177,7 @@ TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
 澳视澳门 (720p),http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 澳门1 (720p),http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 澳门2 (720p),http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+湾湾
 中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
 三立台湾,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都会,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
@@ -184,20 +189,7 @@ TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
 东森财经新闻 HD,http://seb.sason.top/sc/dscjxw_fhd.m3u8
 三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立Live新闻,http://seb.sason.top/sc/sllive_fhd.m3u8
-Astor AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
-Astro欢喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
-Astro AEC,http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
-Astro AOD,http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
-Astro IQIYI,http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
-Astro 双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-Astro 全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-Astro 小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-Astro Awani,http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
-SiTV全纪实 4M1080,http://183.207.248.198/ott.js.chinamobile.com/PLTV/3/224/3221227771/index.m3u8
-SiTV动漫秀场 4M1080,http://223.110.245.146/ott.js.chinamobile.com/PLTV/3/224/3221227774/index.m3u8
-SiTV游戏风云 4M1080,http://183.207.248.112/ott.js.chinamobile.com/PLTV/3/224/3221227713/index.m3u8
-SiTV生活时尚 4M1080,http://183.207.249.101/ott.js.chinamobile.com/PLTV/3/224/3221227707/index.m3u8
-SiTV都市剧场 4M1080,http://223.110.243.160/ott.js.chinamobile.com/PLTV/3/224/3221227710/index.m3u8
+其它
 超级江西卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225979/index.m3u8
 超级体育4M,http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
 超级电影4M,http://39.135.138.59:18890/PLTV/88888910/224/3221225623/index.m3u8
