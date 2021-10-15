@@ -385,495 +385,468 @@
 	],
 	"lives": [
 		{
-			"group": "央视",
+            "group": "我的分组",
 			"channels": [
 				{
-					"name": "CCTV-1",
+					"name": "CCTV1 1080",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1",
-						"http://39.134.24.24/PLTV/88888888/224/3221225684/index.m3u8",
-						"http://39.134.24.24/PLTV/88888888/224/3221225829/index.m3u8",
-						"http://39.134.24.24/PLTV/88888888/224/3221225652/index.m3u8",
-						"http://39.134.24.24/PLTV/88888888/224/3221226024/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/cctv1hd/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "CCTV-2",
+					"name": "CCTV2 540",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2",
-						"http://39.134.24.24/PLTV/88888888/224/3221225686/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/cctv2/1300000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "CCTV-3",
+					"name": "CCTV3 1080",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3",
-						"http://39.134.24.24/PLTV/88888888/224/3221226023/index.m3u8",
-						"http://39.134.24.24/PLTV/88888888/224/3221225630/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/cctv3hd/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "CCTV-4",
+					"name": "CCTV4 540",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/cctv-4/cctv-4",
-						"http://39.134.24.24/PLTV/88888888/224/3221225662/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/cctv4/1300000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "CCTV-5",
+					"name": "CCTV5 1080",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5",
-						"http://39.134.24.24/PLTV/88888888/224/3221226025/index.m3u8",
-						"http://39.134.24.24/PLTV/88888888/224/3221225758/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/cctv5hd/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "CCTV-5+",
+					"name": "CCTV5+ 1080",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv05plus/HD-8000k-1080P-cctv05plus",
-						"http://39.134.24.24/PLTV/88888888/224/3221225718/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/cctv5phd/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "CCTV-6",
+					"name": "CCTV6 1080",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/cctv-6/cctv-6",
-						"http://39.134.24.24/PLTV/88888888/224/3221226027/index.m3u8",
-						"http://39.134.24.24/PLTV/88888888/224/3221225708/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/cctv6hd/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "CCTV-7",
+					"name": "CCTV7 540",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv7/HD-8000k-1080P-cctv7",
-						"http://39.134.24.24/PLTV/88888888/224/3221225855/index.m3u8",
-						"http://39.134.24.24/PLTV/88888888/224/3221225768/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/cctv7/1300000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "CCTV-8",
+					"name": "CCTV8 1080",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv8/HD-8000k-1080P-cctv8",
-						"http://39.134.24.24/PLTV/88888888/224/3221226029/index.m3u8",
-						"http://39.134.24.24/PLTV/88888888/224/3221225666/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/cctv8hd/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "CCTV-9",
+					"name": "CCTV10 1080",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv9/HD-8000k-1080P-cctv9",
-						"http://39.134.24.24/PLTV/88888888/224/3221225672/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/cctv10hd/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "CCTV-10",
+					"name": "CCTV11 540",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv10/HD-8000k-1080P-cctv10",
-						"http://39.134.24.24/PLTV/88888888/224/3221225823/index.m3u8",
-						"http://39.134.24.24/PLTV/88888888/224/3221225782/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/cctv11/1300000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "CCTV-11",
+					"name": "CCTV12 540",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/n-cctv-11/n-cctv-11",
-						"http://39.134.24.24/PLTV/88888888/224/3221225825/index.m3u8",
-						"http://39.134.24.24/PLTV/88888888/224/3221225774/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/cctv12/1300000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "CCTV-12",
+					"name": "CCTV13 540",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv12/HD-8000k-1080P-cctv12",
-						"http://39.134.24.24/PLTV/88888888/224/3221225702/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/cctvxw/1300000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "CCTV-13",
+					"name": "CCTV14 1080",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/cctv-13/cctv-13",
-						"http://39.134.24.24/PLTV/88888888/224/3221225827/index.m3u8",
-						"http://39.134.24.24/PLTV/88888888/224/3221225612/index.m3u8",
-						"http://39.134.24.24/PLTV/88888888/224/3221225650/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/cctvsehd/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "CCTV-14",
+					"name": "CCTV15 540",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14",
-						"http://39.134.24.24/PLTV/88888888/224/3221225857/index.m3u8",
-						"http://39.134.24.24/PLTV/88888888/224/3221225658/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/cctvyy/1300000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "CCTV-15",
+					"name": "中国天气 576",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/n-cctv-15/n-cctv-15",
-						"http://39.134.24.24/PLTV/88888888/224/3221225636/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/zgqx/1300000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "CCTV-17",
+					"name": "上海ICS外语 1080",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17",
-						"http://39.134.24.24/PLTV/88888888/224/3221225859/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/wypdhd/4000000/mnf.m3u8"
 					]
-				}
-			]
-		},
-		{
-			"group": "卫视",
-			"channels": [
+				},
+				{
+					"name": "上海东方影视 1080",
+					"urls": [
+						"http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8"
+					]
+				},
+				{
+					"name": "上海五星体育 1080",
+					"urls": [
+						"http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8"
+					]
+				},
+				{
+					"name": "上海第一财经 1080",
+					"urls": [
+						"http://140.207.241.2:8080/live/program/live/dycjhd/4000000/mnf.m3u8"
+					]
+				},
 				{
-					"name": "安多卫视",
+					"name": "上海新闻综合 1080",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/anduostv/anduostv"
+						"http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "安徽卫视",
+					"name": "上海纪实人文 1080",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-anhuistv/HD-8000k-1080P-anhuistv",
-						"http://39.134.24.24/PLTV/88888888/224/3221225847/index.m3u8",
-						"http://39.134.24.24/PLTV/88888888/224/3221225638/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/jspdhd/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "北京卫视",
+					"name": "上海哈哈炫动 1080",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-beijingstv/HD-2500k-1080P-beijingstv",
-						"http://39.134.24.24/PLTV/88888888/224/3221225833/index.m3u8",
-						"http://39.134.24.24/PLTV/88888888/224/3221225724/index.m3u8",
-						"http://39.134.24.24/PLTV/88888888/224/3221225646/index.m3u8",
-						"http://39.134.24.24/PLTV/88888888/224/3221225735/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/hhxdhd/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "兵团卫视",
+					"name": "上海都市 1080",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/SD-4000k-576P-bingtuanstv/SD-4000k-576P-bingtuanstv"
+						"http://140.207.241.2:8080/live/program/live/ylpdhd/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "重庆卫视",
+					"name": "上海教育 540",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-chongqingstv/HD-8000k-1080P-chongqingstv",
-						"http://39.134.24.24/PLTV/88888888/224/3221225592/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/setv/1300000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "东方卫视",
+					"name": "东南卫视 1080",
 					"urls": [
-						"http://39.134.24.24/PLTV/88888888/224/3221225676/index.m3u8",
-						"http://39.134.24.24/PLTV/88888888/224/3221225835/index.m3u8",
-						"http://39.134.24.24/PLTV/88888888/224/3221225622/index.m3u8",
-						"http://39.134.24.24/PLTV/88888888/224/3221225976/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/dnwshd/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "东南卫视",
+					"name": "东方卫视 1080",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/n-dongnanstv/n-dongnanstv",
-						"http://39.134.24.24/PLTV/88888888/224/3221225722/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/hddfws/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "甘肃卫视",
+					"name": "北京卫视 1080",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/n-gansustv/n-gansustv",
-						"http://39.134.24.24/PLTV/88888888/224/3221225714/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/bjwshd/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "广东南方卫视",
+					"name": "天津卫视 1080",
 					"urls": [
-						"http://39.134.24.24/PLTV/88888888/224/3221225871/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/tjwshd/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "广东卫视",
+					"name": "安徽卫视 1080",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/n-guangdongstv/n-guangdongstv",
-						"http://39.134.24.24/PLTV/88888888/224/3221225692/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/ahwshd/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "广西卫视",
+					"name": "山东卫视 1080",
 					"urls": [
-						"http://39.134.24.24/PLTV/88888888/224/3221225594/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/sdwshd/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "贵州卫视",
+					"name": "广东卫视 1080",
 					"urls": [
-						"http://39.134.24.24/PLTV/88888888/224/3221225610/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/gdwshd/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "海南卫视",
+					"name": "江苏卫视 1080",
 					"urls": [
-						"http://39.134.24.24/PLTV/88888888/224/3221225614/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/jswshd/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "河北卫视",
+					"name": "江西卫视 1080",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/n-hebeistv/n-hebeistv",
-						"http://39.134.24.24/PLTV/88888888/224/3221225744/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/jxwshd/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "河南卫视",
+					"name": "浙江卫视 1080",
 					"urls": [
-						"http://39.134.24.24/PLTV/88888888/224/3221225716/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/zjwshd/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "黑龙江卫视",
+					"name": "辽宁卫视 1080",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-heilongjiangstv/HD-8000k-1080P-heilongjiangstv",
-						"http://39.134.24.24/PLTV/88888888/224/3221225690/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/lnwshd/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "湖北卫视",
+					"name": "深圳卫视 1080",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-hubeistv/HD-2500k-1080P-hubeistv",
-						"http://39.134.24.24/PLTV/88888888/224/3221225674/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/szwshd/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "湖南卫视",
+					"name": "湖北卫视 1080",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/hunanstv/hunanstv",
-						"http://39.134.24.24/PLTV/88888888/224/3221225616/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/hbwshd/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "吉林卫视",
+					"name": "湖南卫视 1080",
 					"urls": [
-						"http://39.134.24.24/PLTV/88888888/224/3221225804/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/hnwshd/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "江苏卫视",
+					"name": "黑龙江卫视 1080",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-jiangsustv/HD-2500k-1080P-jiangsustv",
-						"http://39.134.24.24/PLTV/88888888/224/3221225602/index.m3u8",
-						"http://39.134.24.24/PLTV/88888888/224/3221225734/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/hljwshd/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "江西卫视",
+					"name": "厦门卫视 540",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/jiangxistv/jiangxistv",
-						"http://39.134.24.24/PLTV/88888888/224/3221225682/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/xmws/1300000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "康巴卫视",
+					"name": "吉林卫视 540",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/SD-4000k-576P-kambatv/SD-4000k-576P-kambatv"
+						"http://140.207.241.2:8080/live/program/live/jlws/1300000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "辽宁卫视",
+					"name": "四川卫视 540",
 					"urls": [
-						"http://39.134.24.24/PLTV/88888888/224/3221225726/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/scws/1300000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "内蒙古卫视",
+					"name": "宁夏卫视 540",
 					"urls": [
-						"http://39.134.24.24/PLTV/88888888/224/3221225626/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/nxws/1300000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "宁夏卫视",
+					"name": "云南卫视 540",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/n-ningxiastv/n-ningxiastv",
-						"http://39.134.24.24/PLTV/88888888/224/3221225730/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/ynws/1300000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "青海安多卫视",
+					"name": "兵团卫视 540",
 					"urls": [
-						"http://39.134.24.24/PLTV/88888888/224/3221225875/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/btws/1300000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "青海卫视",
+					"name": "内蒙古卫视 540",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/n-qinghaistv/n-qinghaistv",
-						"http://39.134.24.24/PLTV/88888888/224/3221225606/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/nmgws/1300000/mnf.m3u8'"
 					]
 				},
 				{
-					"name": "山东卫视",
+					"name": "广西卫视 540",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-shandongstv/HD-2500k-1080P-shandongstv",
-						"http://39.134.24.24/PLTV/88888888/224/3221225841/index.m3u8",
-						"http://39.134.24.24/PLTV/88888888/224/3221225796/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/gxws/1300000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "山西卫视",
+					"name": "新疆卫视 540",
 					"urls": [
-						"http://39.134.24.24/PLTV/88888888/224/3221225738/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/xjws/1300000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "陕西农林卫视",
+					"name": "河北卫视 540",
 					"urls": [
-						"http://39.134.24.24/PLTV/88888888/224/3221225877/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/hbws/1300000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "陕西卫视",
+					"name": "河南卫视 540",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/n-shanxi1stv/n-shanxi1stv"
+						"http://140.207.241.2:8080/live/program/live/hnws/1300000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "深圳卫视",
+					"name": "海南卫视 540",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-shenzhenstv/HD-2500k-1080P-shenzhenstv",
-						"http://39.134.24.24/PLTV/88888888/224/3221225843/index.m3u8",
-						"http://39.134.24.24/PLTV/88888888/224/3221225764/index.m3u8",
-						"http://39.134.24.24/PLTV/88888888/224/3221225590/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/lyws/1300000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "四川卫视",
+					"name": "甘肃卫视 540",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/n-sichuanstv/n-sichuanstv",
-						"http://39.134.24.24/PLTV/88888888/224/3221225704/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/gsws/1300000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "天津卫视",
+					"name": "贵州卫视 540",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-tianjinstv/HD-2500k-1080P-tianjinstv"
+						"http://140.207.241.2:8080/live/program/live/gzws/1300000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "云南卫视",
+					"name": "重庆卫视 540",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/n-yntv1/n-yntv1",
-						"http://39.134.24.24/PLTV/88888888/224/3221225696/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/cqws/1300000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "浙江卫视",
+					"name": "陕西卫视 540",
 					"urls": [
-						"http://39.134.24.24/PLTV/88888888/224/3221225642/index.m3u8"
+						"http://140.207.241.2:8080/live/program/live/sxws/1300000/mnf.m3u8"
 					]
-				}
-			]
-		},
-		{
-			"group": "NewTV",
-			"channels": [
+				},
+				{
+					"name": "青海卫视 540",
+					"urls": [
+						"http://140.207.241.2:8080/live/program/live/qhws/1300000/mnf.m3u8"
+					]
+				},
+				{
+					"name": "兵团卫视 540",
+					"urls": [
+						"http://140.207.241.2:8080/live/program/live/btws/1300000/mnf.m3u8"
+					]
+				},
+				{
+					"name": "湖南金鹰卡通 540",
+					"urls": [
+						"http://140.207.241.2:8080/live/program/live/jykt/1300000/mnf.m3u8"
+					]
+				},
 				{
-					"name": "NewTV爱情喜剧",
+					"name": "广东嘉佳卡通 540",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/n-aiqingxj/n-aiqingxj"
+						"http://140.207.241.2:8080/live/program/live/jjkt/1300000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "NewTV潮妈辣婆",
+					"name": "SiTV新视觉 1080",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/n-cmlapo/n-cmlapo"
+						"http://140.207.241.2:8080/live/program/live/xsjhd/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "NewTV动作电影",
+					"name": "SiTV动漫秀场 1080",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/n-dongzuody/n-dongzuody"
+						"http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "NewTV古装剧场",
+					"name": "SiTV游戏风云 1080",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/n-guzhuangjc/n-guzhuangjc"
+						"http://140.207.241.2:8080/live/program/live/yxfyhd/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "NewTV黑莓电竞之夜",
+					"name": "SiTV劲爆体育 1080",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/wmyx/wmyx"
+						"http://140.207.241.2:8080/live/program/live/jbtyhd/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "NewTV黑莓电影",
+					"name": "SiTV魅力足球 1080",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-Supermovie/HD-8000k-1080P-Supermovie"
+						"http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "NewTV黑莓动画",
+					"name": "SiTV欢笑剧场 1080",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/donghuawg/donghuawg"
+						"http://140.207.241.2:8080/live/program/live/hxjchd/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "NewTV家庭剧场",
+					"name": "SiTV极速汽车 1080",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/n-jiatingjc/n-jiatingjc"
+						"http://140.207.241.2:8080/live/program/live/jsqchd/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "NewTV金牌综艺",
+					"name": "SiTV生活时尚 1080",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/n-saishijx/n-saishijx"
+						"http://140.207.241.2:8080/live/program/live/shsshd/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "NewTV精品大剧",
+					"name": "SiTV全纪实 1080",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/n-jdaju/n-jdaju"
+						"http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "NewTV精品体育",
+					"name": "SiTV都市剧场 1080",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/n-jtiyu/n-jtiyu"
+						"http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "NewTV精品综合",
+					"name": "SiTV幸福彩 1080",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/n-mingxingdp/n-mingxingdp"
+						"http://140.207.241.2:8080/live/program/live/xfchd/4000000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "NewTV军旅剧场",
+					"name": "SiTV法治天地 540",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/n-junlvjc/n-junlvjc"
+						"http://140.207.241.2:8080/live/program/live/fztd/1300000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "NewTV军事评论",
+					"name": "SiTV金色频道 540",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/n-junshipl/n-junshipl"
+						"http://140.207.241.2:8080/live/program/live/jingsepd/1300000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "NewTV农业致富",
+					"name": "SiTV七彩戏剧 540",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/n-nongyezf/n-nongyezf"
+						"http://140.207.241.2:8080/live/program/live/qcxj/1300000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "NewTV热播精选",
+					"name": "SiTV东方财经 540",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/n-xiqumd/n-xiqumd"
+						"http://140.207.241.2:8080/live/program/live/dfcj/1300000/mnf.m3u8"
 					]
 				},
 				{
-					"name": "NewTV中国功夫",
+					"name": "百事通体育 1080",
 					"urls": [
-						"http://183.207.248.71:80/cntv/live1/n-gzkongfu/n-gzkongfu"
+						"http://140.207.241.2:8080/live/program/live/hdnba1/4000000/mnf.m3u8",
+						"http://140.207.241.2:8080/live/program/live/hdnba2/4000000/mnf.m3u8",
+						"http://140.207.241.2:8080/live/program/live/hdnba3/4000000/mnf.m3u8",
+						"http://140.207.241.2:8080/live/program/live/hdnba4/4000000/mnf.m3u8",
+						"http://140.207.241.2:8080/live/program/live/hdnba5/4000000/mnf.m3u8",
+						"http://140.207.241.2:8080/live/program/live/hdnba6/4000000/mnf.m3u8",
+						"http://140.207.241.2:8080/live/program/live/hdnba7/4000000/mnf.m3u8"
 					]
 				}
 			]
