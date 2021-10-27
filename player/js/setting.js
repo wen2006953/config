@@ -23,7 +23,7 @@ var YZM = {
 		"color": "#FF556E",
 		"logo": "", // 右上角图标
 		"url": "", // 视频链接
-		"pic": "img/bg.jpg", // 视频封面
+		"pic": "https://cdn.jsdelivr.net/gh/wen2006953/config/player/img/bg.jpg", // 视频封面
 		"next": "", // 下一集链接
 		'ads': {
 			'pause': { // 暂停时广告图片
