@@ -587,7 +587,7 @@
 	"relax": {
 		"adlv": [],
 		"tvdir": "/sdcard/轻松时刻/",
-		"star": "http://45.158.23.168:81/mf/json.txt",
+		"star": "http://api.maiyoux.com:81/mf/json.txt",
 		"ddz": "https://www.dandanzan10.top/dianying/",
 		"fdy": "https://www.o8tv.com/vodshow/1-----------.html",
 		"ysw": "https://www.88ysw.com/dianying/index.html",
