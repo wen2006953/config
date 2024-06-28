@@ -14,6 +14,7 @@
 <script type="text/javascript" src="js/jquery.min.js"></script>
 <script type="text/javascript" src="js/yzmplayer.js"></script>
 <script type="text/javascript" src="js/setting.js"></script>
+<script type="text/javascript" src="js/mpegts.js"></script>
 <script type="text/javascript" src="js/hls.p2p.js"></script>
 <script type="text/javascript" src="js/layer.js"></script>
 </head>
@@ -22,7 +23,9 @@
 <div id="player"></div>
 
 <script type="text/javascript">
-    YZM.start("https://vod1.wxjyedu.com/20220707/F9VkA6kL/index.m3u8");
+    var params = location.search.substring(1).split('&').reduce((l, c) => { let cs = c.split('='); l[cs[0]] = cs[1]; return l; }, {});
+    if(params.url) YZM.start(decodeURIComponent(params.url));
+    else document.writeln('<h2 style="text-align: center;margin-top: 50px;">请指定url参数</h2>');
 </script>
 </body>
 </html>
