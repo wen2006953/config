@@ -588,7 +588,7 @@
 		"adlv": [],
 		"ghps": "ghyynb", // pk: 开头强制使用该密钥，否则使用软件配置密钥
 		"tvdir": "/sdcard/轻松时刻/",
-		"star": "http://api.maiyoux.com:81/mf/json.txt",
+		"star": "http://api.hclyz.com:81/mf/json.txt",
 		"ddz": "https://www.dandanzan10.top/dianying/",
 		"fdy": "https://www.555dyy12.com/vodshow/1-----------.html",
 		"ysw": "https://www.88dyw.com/dianying/index.html",
